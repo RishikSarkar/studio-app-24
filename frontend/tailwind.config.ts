@@ -11,6 +11,11 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        primary: "#cf4520",
+        secondary: "#b31b1b",
+      },
+      fontFamily: {
+        sans: ['1898Sans', 'sans-serif'],
       },
     },
   },

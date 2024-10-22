@@ -1,0 +1,15 @@
+@font-face {
+  font-family: '1898Sans';
+  src: url('/fonts/1898Sans-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: '1898Sans';
+  src: url('/fonts/1898Sans-Bold.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
